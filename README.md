@@ -10,3 +10,6 @@ This project is aimed at predicting the case of customers default payments in Ta
 
 [Documentation](https://https://drive.google.com/file/d/1BVKNhpWzJxDpsW_ZjakgsfmnaCWfcYlA/view?usp=sharing)
 
+
+![Screenshot (12)](https://user-images.githubusercontent.com/86970267/145689097-db8ef9dc-f60e-44d7-8911-869e68da873a.png)
+
