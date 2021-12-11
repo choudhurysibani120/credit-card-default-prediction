@@ -13,3 +13,10 @@ This project is aimed at predicting the case of customers default payments in Ta
 
 ![Screenshot (12)](https://user-images.githubusercontent.com/86970267/145689097-db8ef9dc-f60e-44d7-8911-869e68da873a.png)
 
+##Conclusion
+
+
+XGBoost provided us best result giving a recall of 85%
+
+Logistic Regression has least accurate witha a recall of 71%.
+
